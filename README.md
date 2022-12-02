@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ridleyOne"><img src="https://api.daily.dev/devcards/1830239d0cf144eb85f74d21756756c5.png?r=305" width="400" alt="Pavlo L.'s Dev Card"/></a>
+<a href="https://app.daily.dev/ridleyOne"><img src="https://api.daily.dev/devcards/1830239d0cf144eb85f74d21756756c5.png?r=j9g" width="400" alt="Pavlo L.'s Dev Card"/></a>
 
 - 🔭 I’m currently working on innovations
 - 🌱 I’m currently learning AWS, Databases, and other new and trending frameworks
