@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" style="max-width: 100%;">
+
 ### Hi there 👋
 
 <a href="https://app.daily.dev/ridleyOne"><img src="https://api.daily.dev/devcards/1830239d0cf144eb85f74d21756756c5.png?r=f8z" width="400" alt="Pavlo L.'s Dev Card"/></a>
