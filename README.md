@@ -3,9 +3,8 @@
 ### Hi there 👋
 
 ## LeetCode Stats
-<div align="center">
-  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=faeriy&theme=nightowl&animated=true)
-</div>
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=faeriy&theme=nightowl&animated=true)
 
 ## daily.dev
 
