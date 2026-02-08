@@ -4,7 +4,7 @@
 
 ## LeetCode Stats
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=faeriy&theme=nightowl&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=faeriy&animated=true)
 
 ## daily.dev
 
