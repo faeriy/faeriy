@@ -2,10 +2,6 @@
 
 ### Hi there 👋
 
-## LeetCode Stats
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=faeriy&animated=true)
-
 ## daily.dev
 
 <a href="https://app.daily.dev/ridleyone"><img src="https://api.daily.dev/devcards/1830239d0cf144eb85f74d21756756c5.png?r=c98" width="400" alt="Pavlo L.'s Dev Card"/></a>
